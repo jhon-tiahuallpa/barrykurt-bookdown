@@ -1,0 +1,4 @@
+library(bookdown)
+create_bs4_book(path = ".")
+
+Esto debe hacerse antes
